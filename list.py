@@ -1,0 +1,9 @@
+empty_list=[]
+print()
+no=[1,2,3,4,5]
+print(no)
+no=[2,4,6]*2
+print(no)
+no1=[11,22,33,44,55]
+no1=no1[::-1]
+print(no1)
